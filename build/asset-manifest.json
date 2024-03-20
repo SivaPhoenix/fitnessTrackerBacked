@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02be7dc8.css",
+    "main.js": "/static/js/main.fb2bc0ef.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/running.jpg": "/static/media/running.248783404912e3730a73.jpg",
+    "static/media/run.jpg": "/static/media/run.bd16c1e982ceb4683f64.jpg",
+    "static/media/dumbell.jpeg": "/static/media/dumbell.a40d67303995cde853c0.jpeg",
+    "static/media/cardio.png": "/static/media/cardio.ee8399f18c0bb24f0036.png",
+    "index.html": "/index.html",
+    "main.02be7dc8.css.map": "/static/css/main.02be7dc8.css.map",
+    "main.fb2bc0ef.js.map": "/static/js/main.fb2bc0ef.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02be7dc8.css",
+    "static/js/main.fb2bc0ef.js"
+  ]
+}
